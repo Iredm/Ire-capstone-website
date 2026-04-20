@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170" role="img" aria-label="IDM Photography logo">
+  <rect width="760" height="170" fill="#ffffff"/>
+  <g transform="translate(20,20)">
+    <circle cx="50" cy="50" r="48" fill="none" stroke="#111111" stroke-width="4"/>
+    <polygon points="50,17 60,28 75,31 64,41 66,56 50,49 34,56 36,41 25,31 40,28" fill="#111111"/>
+    <circle cx="50" cy="50" r="17" fill="#ffffff" stroke="#111111" stroke-width="4"/>
+    <circle cx="50" cy="50" r="7" fill="#111111"/>
+  </g>
+  <text x="132" y="90" font-family="Brush Script MT, Segoe Script, Lucida Handwriting, cursive" font-size="74" fill="#111111">IDM Photography</text>
+</svg>
